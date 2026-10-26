@@ -100,7 +100,7 @@ A continuación se presentan dos ejercicios prácticos que los estudiantes deber
 https://www.imdb.com
 
 ### 🎯 Escenario:
-Buscar la película “Inception”, abrir el primer resultado y verificar que en la página se muestre correctamente el título y la calificación (rating).
+Buscar la película “Pulp fiction”, abrir el primer resultado y verificar que en la página se muestre correctamente el título y la calificación (rating).
 
 ## 🧪 Ejercicio 2: Ingresar a una lobby correctamente y validar mensaje de error
 ### 💡 Sitio:
