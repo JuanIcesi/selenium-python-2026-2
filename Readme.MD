@@ -107,5 +107,5 @@ Buscar la película “Pulp fiction”, abrir el primer resultado y verificar qu
 https://lobby-global.vercel.app/
 
 ### 🎯 Escenarios:
-Ingresar con un nombre único a la lobby
-Validar mensaje de eror al intentar ingresar con un nombre de usuario que contiene espacios
+- Ingresar con un nombre único a la lobby
+- Validar mensaje de error al intentar ingresar con un nombre de usuario que contiene espacios
