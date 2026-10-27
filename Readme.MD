@@ -95,17 +95,17 @@ behave features/shopping_cart.feature
 A continuación se presentan dos ejercicios prácticos que los estudiantes deberán realizar durante el taller. Estos están diseñados para reforzar conceptos clave como la interacción con elementos web, localización por selectores y verificación de resultados.
 
 ---
-## 🧪 Ejercicio 1: Buscar una película en IMDb y validar su calificación
-### 💡 Sitio:
-https://www.imdb.com
-
-### 🎯 Escenario:
-Buscar la película “Pulp fiction”, abrir el primer resultado y verificar que en la página se muestre correctamente la calificación (rating).
-
-## 🧪 Ejercicio 2: Ingresar a una lobby correctamente y validar mensaje de error
+## 🧪 Ejercicio 1: Ingresar a una lobby correctamente y validar mensaje de error
 ### 💡 Sitio:
 https://lobby-global.vercel.app/
 
 ### 🎯 Escenarios:
 - Ingresar con un nombre único a la lobby
 - Validar mensaje de error al intentar ingresar con un nombre de usuario que contiene espacios
+
+## 🧪 Ejercicio 2: Buscar una película en IMDb y validar su calificación
+### 💡 Sitio:
+https://www.imdb.com
+
+### 🎯 Escenario:
+Buscar la película “Pulp fiction”, abrir el primer resultado y verificar que en la página se muestre correctamente la calificación (rating).
